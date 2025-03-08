@@ -9,6 +9,7 @@ Talkerscode is a frontend web development project designed as an assignment for 
 - **Responsive Design:** The layout adapts to different screen sizes using CSS flexbox.
 - **User-Friendly UI:** A visually appealing interface with a structured design.
 
+
 ## Technologies Used
 
 - **HTML** - For structuring the web pages.
